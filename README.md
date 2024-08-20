@@ -18,6 +18,7 @@ In order to reset the viewer, you'll have to click "window->reload".
 # Getting Started
 
 * Install [Node.js](https://nodejs.org/en/)
+* Install Electron: npm install --save-dev electron@latest
 * Execute PotreeDesktop.bat
 * Drag and Drop a las or laz file to convert and load it.
 * Drag and Drop a previously converted point cloud to load it. 
